@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dakota
 
 
-I publish that content on my YouTube channel "[TheDax][youtube]".
+I publish that content on my YouTube channel [Bagoda](https://www.youtube.com/@KodaByte).
 
    <p align="left">
       <a href="https://www.youtube.com/c/-name-here-?sub_confirmation=1">
