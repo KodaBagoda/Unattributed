@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dakota
 
 
-I publish that content on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).
+I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).
 
-   <p align="left">
+<!--
+<p align="left">
       <a href="https://www.youtube.com/c/KodaByte?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/-Koda Bagoda-">
@@ -13,6 +14,7 @@ I publish that content on my YouTube channel [Koda Bagoda](https://www.youtube.c
       <a href="[(https://github.com/Unattributed?tab=stars)]">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+-->
 
 ### 🧰 Languages and Tools
 
