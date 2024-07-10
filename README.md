@@ -1,7 +1,10 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dakota
 
-
-I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).
+Software Engineer turned Cryptographer sharing my journey and learning in tech<br/>
+Studying [Cybersecurity]() at the collegiate level<br/>
+I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).<br/>
+<!-- insert extra here E.g. Blog -->
+currently learning about Javascript Secure Coding<br/>
 
 <!--
 <p align="left">
@@ -34,3 +37,4 @@ I publish videos about Computer Science, Tech, and productivity on my YouTube ch
 <br />
 
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
