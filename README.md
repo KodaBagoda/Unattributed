@@ -1,17 +1,14 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dakota
+### Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dakota
+ 
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[Brief Introduction - Remove this afterwards]
 
 Software Engineer turned Cryptographer sharing my journey and learning in tech<br/>
 :brain: Studying [Cybersecurity]() at the collegiate level<br/>
 I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).<br/>
 <!-- insert extra here E.g. Blog -->
 currently learning about Javascript Secure Coding<br/>
-
- # Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
