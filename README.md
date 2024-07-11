@@ -11,9 +11,8 @@ I publish videos about Computer Science, Tech, and productivity on my YouTube ch
 currently learning about Javascript Secure Coding<br/>
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a strong foundation in computer science, I am now seeking a Security Operations Center (SOC) Analyst role to transition my skills towards a rewarding career in cybersecurity.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
