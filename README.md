@@ -14,6 +14,7 @@ currently learning about Javascript Secure Coding<br/>
 
 With a strong foundation in computer science, I am now seeking a Security Operations Center (SOC) Analyst role to transition my skills towards a rewarding career in cybersecurity.
 
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -25,6 +26,7 @@ With a strong foundation in computer science, I am now seeking a Security Operat
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+-->
 
 ## Tools
 
