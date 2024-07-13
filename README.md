@@ -7,8 +7,8 @@
 Software Engineer turned Cryptographer sharing my journey and learning in tech<br/>
 🧠 Studying [Cybersecurity]() at the collegiate level<br/>
 💻I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).<br/>
-<!-- insert extra here E.g. Blog -->
 👨‍🎓currently learning about Javascript Secure Coding<br/>
+<!-- insert extra here E.g. Blog -->
 
 ## Objective
 
