@@ -2,8 +2,6 @@
  
 <a href="https://www.linkedin.com/in/dakota-abernathy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Software Engineer turned Cryptographer sharing my journey and learning in tech<br/>
 🧠 Studying [Cybersecurity]() at the collegiate level<br/>
 💻I publish videos about Computer Science, Tech, and productivity on my YouTube channel [Koda Bagoda](https://www.youtube.com/@KodaByte).<br/>
